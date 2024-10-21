@@ -55,10 +55,8 @@ Archlinux does come with cronie installed by default, but it's not started at bo
 
 # Show me!
 Clean:
-![Clean desktop.](https://github.com/himselfish/dotfiles/blob/main/desktop_clean.png)
+![Clean desktop.](https://github.com/himselfish/i3-dotfiles/blob/main/clean.png)
 
 Busy:
-![Busy desktop.](https://github.com/himselfish/dotfiles/blob/main/desktop_fake_busy.png)
+![Busy desktop.](https://github.com/himselfish/i3-dotfiles/blob/main/fake_busy.png)
 
-Rofi:
-![Rofi](https://github.com/himselfish/dotfiles/blob/main/desktop_rofi.png)
