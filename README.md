@@ -36,6 +36,7 @@ I also added a file called packages.txt containing all the packages I currently 
 | $mod+w | Layout tabbed |
 | $mod+f | Full screen |
 | $mod+Shift+Space | Toggle floating |
+| $mod+Shift+Arrow key | Move window |
 
 If your keyboard has multimedia keys such as play/pause, next, previous or volume keys they should work too.
 
