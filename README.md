@@ -21,7 +21,7 @@ I also added a file called packages.txt containing all the packages I currently 
 | $mod+(1...9) | Switch to workspace (1...9) |
 | $mod+Shift+(1...9) | Move window to workspace (1...9) |
 | $mod+d | Rofi |
-| $mod+Enter | alacritty |
+| $mod+Enter | Alacritty |
 | $mod+t | Thunar |
 | $mod+b | Firefox |
 | $mod+q | Kill |
