@@ -7,7 +7,7 @@ I'm running Archlinux with i3 as my window manager. I used other people's dotfil
 <BR />
 This repository contains my dotfiles in a .tar file which you can extract to your ~/.config folder.<BR />
 <BR />
-I also added a file called packages.txt containing all the packages I currently have installed.  If I ever break my system it can be a useful list to have.  You probably don't need all those packages.
+I also added a file called packages.txt containing all the packages I currently have installed.  If I ever break my system it can be a useful list to have.  You probably don't need all those packages.  Picom is used for some eyecandy.  Dunst is configured at the notification manager.
 
 # Important keyboard shortcuts
 
