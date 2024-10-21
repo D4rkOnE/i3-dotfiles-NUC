@@ -45,7 +45,6 @@ If your keyboard has multimedia keys such as play/pause, next, previous or volum
 One of the best features of tiling window managers is scratchpad.  I'm not going to explain in details what it is but you can consider it like an invisible workspace where you can send windows to and retrieve from.  Here are the keybinds that will make your life a whole lot easier.<BR />
 Move to scratchpad : ```bindsym $mod+Shift+minus move scratchpad```<BR />
 Toggle between windows in scratchpad : ```bindsym $mod+minus scratchpad show```<BR />
-And my absolute favorite is the Quake-style terminal : ```bindsym $mod+Ctrl+Return exec --no-startup-id "sway-scratchpad -tmt -atc foot fish"```. Pressing $mod+Ctrl+Return again will hide your terminal.  <BR />
 
 # Auto-mount external hard drives
 I prefer my USB connected external hard drives to be mounted automatically.  For this I installed ```udisks2``` which is enabled at boot via ```systemctl enable --now udisks2.service```.  As for automount I prefer ```udiskie``` which is autostarted with i3 via ```exec --no-startup-id udiskie --tray``` in my ~/.config/i3/config file.
